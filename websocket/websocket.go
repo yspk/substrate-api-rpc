@@ -2,7 +2,7 @@ package websocket
 
 import (
 	"fmt"
-	"github.com/itering/substrate-api-rpc/pkg/recws"
+	"github.com/yspk/substrate-api-rpc/pkg/recws"
 	"net/http"
 	"time"
 )

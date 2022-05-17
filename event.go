@@ -4,8 +4,8 @@ import (
 	"fmt"
 	scale "github.com/yspk/scale.go"
 	"github.com/yspk/scale.go/types"
-	"github.com/itering/substrate-api-rpc/metadata"
-	"github.com/itering/substrate-api-rpc/util"
+	"github.com/yspk/substrate-api-rpc/metadata"
+	"github.com/yspk/substrate-api-rpc/util"
 )
 
 // Event decode

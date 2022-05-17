@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/yspk/scale.go/types"
-	"github.com/itering/substrate-api-rpc/storage"
-	"github.com/itering/substrate-api-rpc/util"
+	"github.com/yspk/substrate-api-rpc/storage"
+	"github.com/yspk/substrate-api-rpc/util"
 )
 
 const (

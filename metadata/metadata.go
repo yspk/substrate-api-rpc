@@ -3,7 +3,7 @@ package metadata
 import (
 	"github.com/yspk/scale.go"
 	"github.com/yspk/scale.go/types"
-	"github.com/itering/substrate-api-rpc/util"
+	"github.com/yspk/substrate-api-rpc/util"
 )
 
 type RuntimeRaw struct {

@@ -13,7 +13,7 @@
 ## Install
 
 ```
-go get github.com/itering/substrate-api-rpc
+go get github.com/yspk/substrate-api-rpc
 ```
 
 ## Usage

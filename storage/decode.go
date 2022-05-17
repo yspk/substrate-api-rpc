@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/yspk/scale.go/types"
-	"github.com/itering/substrate-api-rpc/util"
+	"github.com/yspk/substrate-api-rpc/util"
 	"github.com/shopspring/decimal"
 )
 

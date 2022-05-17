@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/gorilla/websocket"
-	"github.com/itering/substrate-api-rpc/pkg/recws"
+	"github.com/yspk/substrate-api-rpc/pkg/recws"
 	"sync"
 )
 
