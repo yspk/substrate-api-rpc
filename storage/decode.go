@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/itering/scale.go/types"
+	"github.com/yspk/scale.go/types"
 	"github.com/itering/substrate-api-rpc/util"
 	"github.com/shopspring/decimal"
 )

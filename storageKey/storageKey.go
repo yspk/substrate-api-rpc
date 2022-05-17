@@ -3,7 +3,7 @@ package storageKey
 import (
 	"strings"
 
-	"github.com/itering/scale.go/types"
+	"github.com/yspk/scale.go/types"
 	"github.com/itering/substrate-api-rpc/hasher"
 	"github.com/itering/substrate-api-rpc/metadata"
 	"github.com/itering/substrate-api-rpc/util"

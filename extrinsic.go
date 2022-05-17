@@ -2,8 +2,8 @@ package substrate
 
 import (
 	"fmt"
-	scale "github.com/itering/scale.go"
-	"github.com/itering/scale.go/types"
+	scale "github.com/yspk/scale.go"
+	"github.com/yspk/scale.go/types"
 	"github.com/itering/substrate-api-rpc/metadata"
 	"github.com/itering/substrate-api-rpc/util"
 	"github.com/shopspring/decimal"

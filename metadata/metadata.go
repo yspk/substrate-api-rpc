@@ -1,8 +1,8 @@
 package metadata
 
 import (
-	"github.com/itering/scale.go"
-	"github.com/itering/scale.go/types"
+	"github.com/yspk/scale.go"
+	"github.com/yspk/scale.go/types"
 	"github.com/itering/substrate-api-rpc/util"
 )
 
