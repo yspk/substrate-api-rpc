@@ -8,7 +8,7 @@ require (
 	github.com/pierrec/xxHash v0.1.5
 	github.com/shopspring/decimal v1.2.0
 	github.com/stretchr/testify v1.7.0
-	github.com/yspk/scale.go v1.2.25
+	github.com/yspk/scale.go v1.2.26
 	golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37
 )
 
